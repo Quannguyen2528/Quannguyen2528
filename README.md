@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there👋, I'm Quan
+- I'm currently learning Github
+- How to reach me: https://www.facebook.com/nguyen.quan.248322
 
 <!--
 **Quannguyen2528/Quannguyen2528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
